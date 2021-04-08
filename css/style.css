@@ -6,6 +6,10 @@
 
 /* Typography CSS */
 
+* {
+	font-family: sans, sans-serif !important;
+}
+
 body
 {
 	font-family: sans, sans-serif !important;
